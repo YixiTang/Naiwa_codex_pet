@@ -4,6 +4,11 @@
 
 ## 各位小伙伴们下载前可以点个star⭐吗！非常感谢！
 
+## 转载与原创声明
+
+本桌宠由 YixiTang 基于参考形象制作，角色原型版权归原权利人所有；转载请注明作者（@我的刀盾 抖音号：50204596080）并附上本仓库链接，请勿冒充原创。
+原作品链接：4.82 xSY:/ :2pm 12/22 u@s.Eh 我已无心与你一决高下 树欲静而心闹麻，子欲绷而身要耍。 # 奶蛙 # 绷住 # vibecoding # 桌宠 # chatgpt  https://v.douyin.com/wKaI5W14Gx4/ 复制此链接，打开Dou音搜索，直接观看视频！
+
 ## 下载
 
 👉 [点击下载奶蛙压缩包](https://github.com/YixiTang/Naiwa_codex_pet/raw/refs/heads/main/naiwa-portable.zip)
