@@ -2,6 +2,8 @@
 
 一只鲜黄色、头顶电脑的奶蛙，陪你一起工作。
 
+## 各位小伙伴们下载前可以点个star⭐吗！非常感谢！
+
 ## 下载
 
 👉 [点击下载奶蛙压缩包](https://github.com/YixiTang/Naiwa_codex_pet/raw/refs/heads/main/naiwa-portable.zip)
